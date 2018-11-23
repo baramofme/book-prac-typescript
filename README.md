@@ -1,12 +1,10 @@
-# 타입스크립트 퀵스타트
+# 타입스크립트 퀵스타트 포크 및 실습
 
 <img src="https://github.com/happygrammer/typescript/blob/master/cover.jpg" width="250px">
 
-* [예스24](http://www.yes24.com/24/goods/59719961?scode=029)
-* [알라딘](http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=141259576)
-* [교보문고](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791186710302&orderClick=LAG&Kc=) [[미리보기]](http://preview.kyobobook.co.kr/preview.jsp?siteGb=INK&ejkGb=KOR&barcode=9791186710302&loginYn=N&orderClick=JAW)
-* [반디앤루니스](http://www.bandinlunis.com/front/product/detailProduct.do?prodId=4167786)
-* [인터파크](http://shopping.interpark.com/product/productInfo.do?prdNo=5618034908&dispNo=008001082&pis1=shop&pis2=product)
+투입된 플젝에서 갑자기 사용이 결정난 타입 스크립트 실습.
+
+공부하라고 회사에서 사준 책 코드를 연습한다.
 
 ## 소스 코드 환경
 
