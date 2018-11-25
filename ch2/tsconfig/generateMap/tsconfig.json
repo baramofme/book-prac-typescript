@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "outFile": "./dist-specific/out.js",
+    "target": "es5",
+    "sourceMap": true
+  },
+  "exclude": [
+    "node_modules"
+  ],
+  "files": [
+    "./hello1.ts",
+    "./hello2.ts"
+  ]
+}

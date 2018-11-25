@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "outFile": "./dist-specific/out.js",
+    // Only 'amd' and 'system' modules are supported alongside --outFile.
+    // "module": "commonjs",
+    "target": "es5"
+  },
+  "exclude": [
+    "node_modules"
+  ],
+  "files": [
+    "./hello1.ts",
+    "./hello2.ts"
+  ]
+}

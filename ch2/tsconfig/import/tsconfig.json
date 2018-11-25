@@ -6,8 +6,9 @@
     "removeComments": true,
     "sourceMap" : true
   },
+  // 컴파일 루트의 hello3.ts 는 지정하지 않았으므로 컴파일 시 빠진다.
   "include":[
-    "./src-import-test/**/*.ts"
+    "include"
   ]
 }
 /*
