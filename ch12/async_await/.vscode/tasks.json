@@ -1,6 +1,0 @@
-{
-    "version": "0.1.0",
-    "command": "ts-node",
-    "isShellCommand": true,
-    "args": ["${file}"],
-}

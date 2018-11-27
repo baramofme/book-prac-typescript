@@ -3,7 +3,7 @@
     "outDir": "./dist",
     "target": "es6",
     "strictNullChecks": true,
-    "removeComments": true
+    "removeComments": false
   },  
   "exclude": [
     "node_modules",

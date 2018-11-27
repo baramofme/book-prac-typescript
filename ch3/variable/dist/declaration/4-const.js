@@ -20,3 +20,4 @@ const profile = {
 profile.name = "happy2";
 profile.month--;
 console.log(profile);
+console.log('Class: , Function: , Line 30 (): ', typeof birthMonth);

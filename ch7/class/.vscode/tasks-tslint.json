@@ -1,6 +1,0 @@
-{
-    "version": "0.1.0",
-    "command": "cmd", 
-    "isShellCommand": true,
-    "args": ["/C ts-node ${file} & tslint ${file}"]
-}
